@@ -9,7 +9,8 @@
                 <a class="nav-link active" href="/">Home </a>
                 <a class="nav-link" href="/pages/about">About</a>
                 <a class="nav-link" href="/pages/contact">Contact</a>
-
+                <a class="nav-link" href="/Komik">Komik</a>
+                <a class="nav-link" href="/orang">Orang</a>
             </div>
         </div>
     </div>
